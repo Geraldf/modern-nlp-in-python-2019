@@ -1,4 +1,4 @@
-name: nlp-19
+# name: nlp-19
 channels:
   - conda-forge
   - defaults
